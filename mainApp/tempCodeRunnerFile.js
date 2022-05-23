@@ -1,1 +1,0 @@
-http://localhost:5000/api/delete_post/
