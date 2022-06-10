@@ -97,9 +97,13 @@
 ## 4 : Show your github project page
 ### README (the report).
 
-## 5 : Discuss challenges in the project.
+## 5 : Feature
+- almost 90% completed
+- The remaining 10% are having bugs
 
-## 6 : Result and Conclusion
+## 6 : Discuss challenges in the project.
+
+## 7 : Result and Conclusion
 
 ### Sign in or login 
 
@@ -118,6 +122,6 @@
 ![image](https://user-images.githubusercontent.com/83336888/172990978-ef404ad8-0ed7-4828-9f87-ca0f020b1301.png)
 
 
-## 7 : What have you learned? 
+## 8 : What have you learned? 
 - How to creat a wed
 - how fontend and backend work
