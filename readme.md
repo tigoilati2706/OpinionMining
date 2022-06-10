@@ -12,9 +12,12 @@
 
 ### Aim and objective of the project:
  ●	The purpose of Opinion Mining and Sentiment Analysis is to make computers smarter at recognizing and expressing users' comments. Furthermore, Opinion Mining also connects iteration between poster and viewer closer.  These techniques, on the other hand, are incapable of removing noise from data (review), detecting sentiment and its polarity in complicated sentences, and extracting many viewpoints from a single document, among other things.
+ 
  ●	When the project is finished, we anticipate that the Opinion Mining for Social Networking Platforms will be a useful tool for any individual or company looking to organize and manage their work or experience. Our product can be accessed via the Internet. Furthermore, organizations can contact us via email or phone number for direct support for our business software packages from A-Z in order to receive preferential and appropriate pricing. Our application can be tailored to each user's specific needs or goals. 
+ 
  ●	Using our team feature, organizations can easily handle and manage tasks that require teamwork. Despite its data limitations, we demonstrate that the system achieves high accuracy across all domains and performs on par with state-of-the-art systems. In the future, the development team will continue to research and release new AI features to better assess and serve customer demands. Furthermore, our team will always listen to user feedback during the operation in order to change, repair issues, and improve this program. Furthermore, we attempted to design an appealing and simple user interface so that people could interact with ease. 
-●	Our feature can work as an advertisement, this application helps the advertiser know what users like or dislike. It is also helpful for users who want to gather opinions about his/her new idea.
+
+ ● Our feature can work as an advertisement, this application helps the advertiser know what users like or dislike. It is also helpful for users who want to gather opinions about his/her new idea.
 
 ## 2 : Discuss about your technology stack selection (language/library/framework)
 - ### HTML
