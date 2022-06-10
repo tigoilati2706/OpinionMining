@@ -334,6 +334,7 @@ async function createComment(content, idPost, user) {
   };
   if (content.trim() !== ''){
     try {
+      // alert(JSON.stringify(newComment) )
       // console.log(newComment);
       const res = await axios.post(
         "http://localhost:5000/api/user_create_cmt",

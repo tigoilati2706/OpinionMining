@@ -2,6 +2,7 @@ import json
 import sqlite3 as sql
 
 # This using for insert update
+
 def ExecuteNonQuery(query):
     try:
         connection = sql.connect("./project.db")
@@ -34,6 +35,7 @@ data = json.loads(f.read())
 
 #key: tên keyword; value: score của keyword
 #{'abandon': -2} => key: abandon; value: -2
+
 for key, value in data.items():
     try:
         result = Insert_Keywords("Positive" if value >= 0 else "Negative", key, value)            

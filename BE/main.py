@@ -2,6 +2,7 @@ from init import app
 from Controller.auth import *
 from Controller.Admin import *
 from Controller.User import *
+
 # from Controller.User import create_app
 # app = create_app()
 # app.app_context().push()

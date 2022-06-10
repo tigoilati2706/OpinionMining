@@ -64,7 +64,7 @@ function renderRecentKeyword(keyword) {
   let goodcommetsCounter = 0;
   let badCommentsCounter = 0;
   for (let i = 0; i < commentsNumber.length; i++) {
-    if (commentsNumber[i].ranked === "GOOD") {
+    if (commentsNumber[i].ranked.toUpperCase() === "GOOD") {
       goodcommetsCounter += 1;
     } else {
       badCommentsCounter += 1;
